@@ -1,0 +1,6 @@
+[book]
+authors = ["Abiria"]
+language = "en"
+multilingual = false
+src = "src"
+title = "three book"
